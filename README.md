@@ -2,6 +2,8 @@
 
 把英文课件、讲义、论文和长文本，整理成**中文 Obsidian 复习笔记**的 Claude Code 技能。
 
+> A Claude Code skill that turns English lecture slides, PDF handouts and papers into Chinese Obsidian study notes.
+
 ## 有啥用
 
 - **翻译课件**：全文翻译，不跳页、不省略；术语首次出现中英并列。
