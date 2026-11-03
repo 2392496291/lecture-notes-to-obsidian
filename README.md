@@ -112,7 +112,7 @@ claude
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/2392496291/lecture-notes-skill.git
+git clone https://github.com/2392496291/lecture-notes-to-obsidian.git
 cp -r lecture-notes-skill/lecture-notes ~/.claude/skills/
 ```
 
@@ -120,7 +120,7 @@ cp -r lecture-notes-skill/lecture-notes ~/.claude/skills/
 
 ```powershell
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.claude\skills"
-git clone https://github.com/2392496291/lecture-notes-skill.git
+git clone https://github.com/2392496291/lecture-notes-to-obsidian.git
 Copy-Item -Recurse lecture-notes-skill\lecture-notes "$env:USERPROFILE\.claude\skills\"
 ```
 
